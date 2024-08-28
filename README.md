@@ -1,6 +1,5 @@
-# How to create a Chrome extension for GPT-3 questions with ReactJS
+# Developed React Chrome Extension for ChatGPT Access
 
-![Cover](https://d2pwmb8xsybju4.cloudfront.net/posts/gpt3-chrome-extansion/linkedin_card.png "Cover")
 I'm a big fan of using the OpenAI **Playground**, and I have numerous saved templates for generating landing page headlines and checking my grammar. In this walkthrough, we'll build a Chrome extension so you don't have to leave your browser to ask GPT-3 questions.
 
 ## Outline
